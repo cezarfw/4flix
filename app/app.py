@@ -1,4 +1,4 @@
-i#!/usr/bin/python3
+#!/usr/bin/python3
 #-*- coding: utf-8 -*-
 from flask import Flask, render_template, jsonify, request
 from flask_cors import CORS, cross_origin
