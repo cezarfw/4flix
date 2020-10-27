@@ -6,7 +6,7 @@ bpython==0.16
 cffi==1.11.2
 chardet==2.3.0
 click==6.7
-cryptography==1.7.1
+cryptography==3.2
 curtsies==0.2.11
 decorator==4.1.2
 enum34==1.1.6
